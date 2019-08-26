@@ -1,9 +1,9 @@
 ---
 view: page
-title: "7. Staging and committing"
+title: "7. Staging and committing 추가와 커밋"
 ---
 
-<p>A staging step in git allows you to continue making changes to the working directory, and when you decide you wanna interact with version control, it allows you to record changes in small commits.</p>
+<p>A staging step in git allows you to continue making changes to the working directory, 추가 단계는 작업 폴더에서 and when you decide you wanna interact with version control, it allows you to record changes in small commits.</p>
 
 <p>Suppose you have edited three files (<code>a.html</code>, <code>b.html</code>, and <code>c.html</code>).  After that you need to commit all the changes so that the changes to <code>a.html</code> and <code>b.html</code> were a single commit, while the changes to <code>c.html</code> were not logically associated with the first two files and were done in a separate commit.</p>
 

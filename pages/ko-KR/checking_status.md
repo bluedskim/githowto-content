@@ -23,6 +23,6 @@ title: "4. 저장소의 상태 확인하기"
 # On branch master
 nothing to commit (working directory clean)</pre>
 
-<p>실행 결과를 보면 이 폴더에는 commit 할 것이 없고 작업 폴더의 현재 상태가 저장소에 반영이 되어 있다는 것을 알 수 있다.</p>
+<p>실행 결과를 보면 작업 폴더의 현재 상태가 저장소에 반영이 되어 있고 이 폴더에는 커밋 할 것이 없다는 것을 알 수 있다.</p>
 
 <p>앞으로 우리는 작업 폴더와 저장소의 상태를 지속적으로 모니터링하기 위해 <code>git status</code> 명령을 사용할 것이다.</p>
